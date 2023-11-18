@@ -7,3 +7,6 @@
 [submodule "submit/javascript-lotto-6"]
 	path = submit/javascript-lotto-6
 	url = https://github.com/llqqssttyy/javascript-lotto-6.git
+[submodule "submit/javascript-christmas-6-llqqssttyy"]
+	path = submit/javascript-christmas-6-llqqssttyy
+	url = https://github.com/llqqssttyy/javascript-christmas-6-llqqssttyy.git
