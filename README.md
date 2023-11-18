@@ -1,5 +1,20 @@
 # woowa-precourse-6-llqqssttyy
-우아한테크코스 프리코스 6기 저장소
+> 우아한테크코스 프리코스 6기 저장소
+
+Submodule을 사용해 만든 우테코 6기 프리코스 제출 코드 저장소입니다.
+
+해당 저장소는 제출 코드를 관리하는 `submit` 디렉터리와 리팩토링 코드를 저장하는 `refactor`(추가 예정) 디렉터리로 이루어져 있습니다.  
+
+```
+.
+├── README.md
+├── refactor
+└── submit
+    ├── javascript-baseball-6
+    ├── javascript-christmas-6-llqqssttyy
+    ├── javascript-lotto-6
+    └── javascript-racingcar-6
+```
 
 <br/>
 
