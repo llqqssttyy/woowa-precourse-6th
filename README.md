@@ -1,4 +1,4 @@
-# woowa-precourse-6th
+# woowa-precourse-6-llqqssttyy
 우아한테크코스 프리코스 6기 저장소
 
 <br/>
