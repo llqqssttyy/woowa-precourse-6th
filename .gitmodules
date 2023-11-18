@@ -1,3 +1,6 @@
 [submodule "submit/javascript-baseball-6"]
 	path = submit/javascript-baseball-6
 	url = https://github.com/llqqssttyy/javascript-baseball-6.git
+[submodule "submit/javascript-racingcar-6"]
+	path = submit/javascript-racingcar-6
+	url = https://github.com/llqqssttyy/javascript-racingcar-6.git
