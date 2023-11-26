@@ -78,7 +78,7 @@ Submodule을 사용해 만든 우테코 6기 프리코스 제출 코드 저장�
         <a href=""></a>
       </td>
       <td>
-        - Strategy 패턴<br/>- eslint와 prettier<br/>- 구조 분해 할당<br/>  
+        - 템플릿 메서드 패턴<br/>- eslint와 prettier<br/>- 구조 분해 할당<br/>  
       </td>
     </tr>
   </tbody>
