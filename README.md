@@ -75,10 +75,10 @@ Submodule을 사용해 만든 우테코 6기 프리코스 제출 코드 저장�
         <a href="https://github.com/llqqssttyy/javascript-christmas-6-llqqssttyy/pull/1">#1</a>
       </td>
       <td>
-        <a href=""></a>
+        <a href="https://velog.io/@llqqssttyy/FE-%EC%9A%B0%ED%85%8C%EC%BD%94-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%85%98-4%EC%A3%BC%EC%B0%A8-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-%EB%A7%88%EB%AC%B4%EB%A6%AC">[FE] 우테코 프리미션 4주차 + 프리코스 마무리</a>
       </td>
       <td>
-        - 템플릿 메서드 패턴<br/>- eslint와 prettier<br/>- 구조 분해 할당<br/>  
+        - 템플릿 메서드 패턴<br/>- 구조 분해 할당과 클래스 문법<br/>  - eslint와 prettier<br/>
       </td>
     </tr>
   </tbody>
