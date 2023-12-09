@@ -30,31 +30,19 @@ Submodule을 사용해 만든 우테코 6기 프리코스 제출 코드 저장�
 
   <tbody>
     <tr>
-      <td>1</td>
-      <td>⚾️ 숫자 야구</td>
+      <td>4</td>
+      <td>🎄 크리스마스 이벤트</td>
       <td>
-        <a href="https://github.com/woowacourse-precourse/javascript-baseball-6/pull/83">#83</a>
+        <a href="https://github.com/llqqssttyy/javascript-christmas-6-llqqssttyy/pull/1">#1</a>
       </td>
       <td>
-        <a href="https://velog.io/@llqqssttyy/FE-%EC%9A%B0%ED%85%8C%EC%BD%94-6%EA%B8%B0-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">[FE] 우테코 6기 프리코스 1주차 회고</a>
+        <a href="https://velog.io/@llqqssttyy/FE-%EC%9A%B0%ED%85%8C%EC%BD%94-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%85%98-4%EC%A3%BC%EC%B0%A8-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-%EB%A7%88%EB%AC%B4%EB%A6%AC">[FE] 우테코 프리미션 4주차 + 프리코스 마무리</a>
       </td>
       <td>
-        - Jest mocking<br/>- Airbnb Style Guide<br/>- 객체 지향 설계(OOP)<br/>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>🚗 자동차 경주</td>
-      <td>
-        <a href="https://github.com/woowacourse-precourse/javascript-racingcar-6/pull/168">#168</a>
-      </td>
-      <td>
-        <a href="https://velog.io/@llqqssttyy/FE-%EC%9A%B0%ED%85%8C%EC%BD%94-6%EA%B8%B0-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-2%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">[FE] 우테코 6기 프리코스 2주차 회고</a>
-      </td>
-      <td>
-        - MVC 패턴<br/>- JSDoc<br/>- Validator의 가독성과 책임<br/>
+        - 템플릿 메서드 패턴<br/>- 구조 분해 할당과 클래스 문법<br/>  - eslint와 prettier<br/>
       </td>
     </tr>
+
     <tr>
       <td>3</td>
       <td>💸 로또</td>
@@ -68,17 +56,32 @@ Submodule을 사용해 만든 우테코 6기 프리코스 제출 코드 저장�
         - Javascript 클래스 문법<br/>- 도메인 로직과 단위 테스트<br/>- 에러 핸들링<br/>  
       </td>
     </tr>
+
     <tr>
-      <td>4</td>
-      <td>🎄 크리스마스 이벤트</td>
+      <td>2</td>
+      <td>🚗 자동차 경주</td>
       <td>
-        <a href="https://github.com/llqqssttyy/javascript-christmas-6-llqqssttyy/pull/1">#1</a>
+        <a href="https://github.com/woowacourse-precourse/javascript-racingcar-6/pull/168">#168</a>
       </td>
       <td>
-        <a href="https://velog.io/@llqqssttyy/FE-%EC%9A%B0%ED%85%8C%EC%BD%94-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%85%98-4%EC%A3%BC%EC%B0%A8-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-%EB%A7%88%EB%AC%B4%EB%A6%AC">[FE] 우테코 프리미션 4주차 + 프리코스 마무리</a>
+        <a href="https://velog.io/@llqqssttyy/FE-%EC%9A%B0%ED%85%8C%EC%BD%94-6%EA%B8%B0-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-2%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">[FE] 우테코 6기 프리코스 2주차 회고</a>
       </td>
       <td>
-        - 템플릿 메서드 패턴<br/>- 구조 분해 할당과 클래스 문법<br/>  - eslint와 prettier<br/>
+        - MVC 패턴<br/>- JSDoc<br/>- Validator의 가독성과 책임<br/>
+      </td>
+    </tr>
+
+    <tr>
+      <td>1</td>
+      <td>⚾️ 숫자 야구</td>
+      <td>
+        <a href="https://github.com/woowacourse-precourse/javascript-baseball-6/pull/83">#83</a>
+      </td>
+      <td>
+        <a href="https://velog.io/@llqqssttyy/FE-%EC%9A%B0%ED%85%8C%EC%BD%94-6%EA%B8%B0-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0">[FE] 우테코 6기 프리코스 1주차 회고</a>
+      </td>
+      <td>
+        - Jest mocking<br/>- Airbnb Style Guide<br/>- 객체 지향 설계(OOP)<br/>
       </td>
     </tr>
   </tbody>
