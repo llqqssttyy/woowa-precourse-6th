@@ -42,7 +42,6 @@ Submodule을 사용해 만든 우테코 6기 프리코스 제출 코드 저장�
         - 템플릿 메서드 패턴<br/>- 구조 분해 할당과 클래스 문법<br/>  - eslint와 prettier<br/>
       </td>
     </tr>
-
     <tr>
       <td>3</td>
       <td>💸 로또</td>
@@ -56,7 +55,6 @@ Submodule을 사용해 만든 우테코 6기 프리코스 제출 코드 저장�
         - Javascript 클래스 문법<br/>- 도메인 로직과 단위 테스트<br/>- 에러 핸들링<br/>  
       </td>
     </tr>
-
     <tr>
       <td>2</td>
       <td>🚗 자동차 경주</td>
@@ -70,7 +68,6 @@ Submodule을 사용해 만든 우테코 6기 프리코스 제출 코드 저장�
         - MVC 패턴<br/>- JSDoc<br/>- Validator의 가독성과 책임<br/>
       </td>
     </tr>
-
     <tr>
       <td>1</td>
       <td>⚾️ 숫자 야구</td>
