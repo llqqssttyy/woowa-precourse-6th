@@ -1,7 +1,7 @@
 # woowa-precourse-6-llqqssttyy
-> 우아한테크코스 프리코스 6기 저장소
+> Git의 [submodule을 학습하고](https://velog.io/@llqqssttyy/GitGitHub-%EC%84%9C%EB%B8%8C%EB%AA%A8%EB%93%88%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%B4-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-%EC%A0%80%EC%9E%A5%EC%86%8C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0) 제작한 우테코 6기 프리코스 제출 코드 저장소입니다. 
 
-Submodule을 사용해 만든 우테코 6기 프리코스 제출 코드 저장소입니다.
+<br/>
 
 해당 저장소는 제출 코드를 관리하는 `submit` 디렉터리와 리팩토링 코드를 저장하는 `refactor`(추가 예정) 디렉터리로 이루어져 있습니다.  
 
