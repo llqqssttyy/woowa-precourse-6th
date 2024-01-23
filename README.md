@@ -30,6 +30,20 @@
 
   <tbody>
     <tr>
+      <td>5</td>
+      <td>📞 개발자 비상근무</td>
+      <td>
+        <a href="https://github.com/llqqssttyy/javascript-oncall-6-llqqssttyy/pull/1">#1</a>
+      </td>
+      <td>
+        <a href="https://velog.io/@llqqssttyy/FE-%EC%9A%B0%ED%85%8C%EC%BD%94-6%EA%B8%B0-%EC%B5%9C%EC%A2%85-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%9A%8C%EA%B3%A0">[FE] 우테코 6기 최종 코딩 테스트 회고
+</a>
+      </td>
+      <td>
+        - 기록으로 내 단점 파악하기<br/>- 객체 배열 활용하기<br/>
+      </td>
+    </tr>
+    <tr>
       <td>4</td>
       <td>🎄 크리스마스 이벤트</td>
       <td>
