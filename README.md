@@ -28,7 +28,7 @@
   <thead>
     <th>주차</th>
     <th>미션</th>
-    <th>PR</th>
+    <th>리뷰 PR</th>
     <th>회고</th>
     <th>키워드</th>
   </thead>
@@ -38,7 +38,7 @@
       <td>5</td>
       <td>📞 개발자 비상근무</td>
       <td>
-        <a href="https://github.com/llqqssttyy/javascript-oncall-6-llqqssttyy/pull/1">#1</a>
+        -
       </td>
       <td>
         <a href="https://velog.io/@llqqssttyy/FE-%EC%9A%B0%ED%85%8C%EC%BD%94-6%EA%B8%B0-%EC%B5%9C%EC%A2%85-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%9A%8C%EA%B3%A0">[FE] 우테코 6기 최종 코딩 테스트 회고
