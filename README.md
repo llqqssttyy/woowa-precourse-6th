@@ -1,24 +1,29 @@
 # woowa-precourse-6-llqqssttyy
-> Git의 [submodule을 학습하고](https://velog.io/@llqqssttyy/GitGitHub-%EC%84%9C%EB%B8%8C%EB%AA%A8%EB%93%88%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%B4-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-%EC%A0%80%EC%9E%A5%EC%86%8C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0) 제작한 우테코 6기 프리코스 제출 코드 저장소입니다. 
+
+> Git의 [submodule을 학습하고](https://velog.io/@llqqssttyy/GitGitHub-%EC%84%9C%EB%B8%8C%EB%AA%A8%EB%93%88%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%B4-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-%EC%A0%80%EC%9E%A5%EC%86%8C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0) 제작한 우테코 6기 프리코스 및 최종 코딩 테스트 제출 코드 저장소입니다.
 
 <br/>
 
-해당 저장소는 제출 코드를 관리하는 `submit` 디렉터리와 리팩토링 코드를 저장하는 `refactor`(추가 예정) 디렉터리로 이루어져 있습니다.  
+해당 저장소는 제출 코드를 관리하는 `submit` 디렉터리와 리팩토링 코드를 저장하는 `refactor` 디렉터리로 이루어져 있습니다.
 
 ```
 .
 ├── README.md
 ├── refactor
+│   └── javascript-oncall-6-llqqssttyy
+│
 └── submit
     ├── javascript-baseball-6
     ├── javascript-christmas-6-llqqssttyy
     ├── javascript-lotto-6
+    ├── javascript-oncall-6-llqqssttyy
     └── javascript-racingcar-6
 ```
 
 <br/>
 
 ## 모아 보기
+
 <table>
   <thead>
     <th>주차</th>
@@ -101,6 +106,7 @@
 <br/>
 
 ## What I Learned..
+
 1. 도메인 로직과 서비스 로직을 분리하면 코드 가시성과 테스트 용이성이 좋아진다.
 2. 테스트 코드는 코드에 대한 최소한의 검증이다. 성공 테스트에 매몰되지 말고 실패 케이스를 생각하는 훈련을 하자.
 3. eslint와 prettier를 사용해 구성원 간 약속된 규칙을 만들면 더 깊은 코드 리뷰가 가능해진다.
