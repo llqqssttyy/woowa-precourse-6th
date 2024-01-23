@@ -13,6 +13,3 @@
 [submodule "submit/javascript-oncall-6-llqqssttyy"]
 	path = submit/javascript-oncall-6-llqqssttyy
 	url = https://github.com/llqqssttyy/javascript-oncall-6-llqqssttyy.git
-[submodule "refactor/javascript-oncall-6-llqqssttyy"]
-	path = refactor/javascript-oncall-6-llqqssttyy
-	url = https://github.com/llqqssttyy/javascript-oncall-6-llqqssttyy.git
