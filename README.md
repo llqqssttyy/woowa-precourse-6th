@@ -1,5 +1,123 @@
 # 🐼 우아한테크코스 10개월의 기록
 
+## 레벨 3 - 팀 프로젝트(크루루)
+
+> 2주 단위의 스프린트를 총 4회 진행하며 공통 요구사항을 수행하고,
+> 스스로 정의한 문제를 팀원과 함께 해결해 나갑니다.
+
+### 🗓️ 기간
+
+2024.07.03 - 2024.08.23
+
+### 📝 모아 보기
+
+#### 프로젝트 이름
+
+[🔗 크루루: 복잡한 리크루팅, 간편하게✨](https://www.cruru.kr/)
+
+#### 주요 기능
+
+<table>
+  <thead>
+    <th>기능</th>
+    <th>설명</th>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td><b>공고 생성 및 수정</b></td>
+      <td>
+      - 공고 상세 정보와 지원자에게 받을 지원서 양식을 작성하여 공고를 생성할 수 있습니다.<br/> 
+      - 생성된 공고는 퍼블릭 URL로 게시되어 누구나 접근할 수 있습니다.
+      </td>
+    </tr>
+    <tr>
+      <td><b>지원자 관리</b></td>
+      <td>
+        - 이름 검색, 정렬, 필터링 기능을 통해 원하는 지원자를 빠르게 찾을 수 있습니다.<br/>
+        - 각 지원자에 대해 모집 단계 변경, 불합격 처리, 이메일 전송 등의 기능을 제공하며, 다중 선택 작업도 지원합니다.
+      </td>
+    </tr>
+    <tr>
+      <td><b>지원자 상세 정보 모달</b></td>
+      <td>
+      - 지원자가 제출한 지원서(자기소개서)를 검토하고 평가를 작성할 수 있는 창입니다. <br/>
+      - 이 모달에서 모집 단계를 변경하거나 불합격 처리를 진행할 수 있으며, 이는 칸반 보드와 동일한 방식으로 동작합니다.
+      </td>
+    </tr>
+    <tr>
+      <td><b>공고 및 지원서 보기</b></td>
+      <td>- 지원자는 리크루터가 생성한 공고의 상세 정보를 확인하고 필요한 정보를 입력하여 지원할 수 있습니다.</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 공통 요구사항 및 학습 목표
+
+<table>
+  <thead>
+    <th>스프린트</th>
+    <th>공통 요구사항</th>
+    <th>기술 스택</th>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>1️⃣ 🏃</td>
+      <td>
+        - <a href="https://github.com/woowacourse-teams/2024-cruru/wiki/Webpack-%EA%B8%B0%EB%B0%98%EC%9D%98-React-&-Typescript-%ED%99%98%EA%B2%BD-%EC%85%8B%ED%8C%85">Webpack 기반의 React & TypeScript 환경 세팅</a><br/>
+        - <a href="https://github.com/woowacourse-teams/2024-cruru/wiki/Frontend-%EC%BD%94%EB%93%9C-%EB%B0%8F-%EC%8A%A4%ED%83%80%EC%9D%BC-%EC%BB%A8%EB%B2%A4%EC%85%98">개발(코드 컨벤션 등) 문서 만들기</a><br/>
+        - <a href="https://github.com/woowacourse-teams/2024-cruru/wiki/%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95-%EC%84%A0%ED%83%9D-%EB%B0%8F-%EC%9D%B4%EC%9C%A0">스타일링 방법 선택 및 이유 정리</a><br/>
+      </td>
+      <td>
+        - Webpack + React + TS<br/>
+        - Emotion<br/>
+        - Tanstack Query<br/>
+      </td>
+    </tr>
+    <tr>
+      <td>2️⃣ 🏃</td>
+      <td>
+        <a href="https://github.com/woowacourse-teams/2024-cruru/wiki/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%B9%8C%EB%93%9C-%EB%B0%B0%ED%8F%AC-%ED%99%98%EA%B2%BD-%EB%B0%8F-CI-%EA%B5%AC%EC%B6%95">
+        - AWS에서 프론트엔드 리소스 빌드 및 배포 환경 구축<br/>
+        - 테스트 전략 수립 및 CI 프로세스 정립<br/>
+        </a>
+      </td>
+      <td>
+        - CloudFront + S3<br/>
+        - GitHub Action<br/>
+        - Storybook<br/>
+      </td>
+    </tr>
+    <tr>
+      <td>3️⃣ 🏃</td>
+      <td>
+        <a href+="https://github.com/woowacourse-teams/2024-cruru/wiki/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%97%90%EC%84%9C%EC%9D%98-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95-feat-Sentry,-GA">- 모니터링 및 디버깅할 수 있는 환경 구축<br/></a>
+      </td>
+      <td>
+        - Sentry<br/>
+      </td>
+    </tr>
+    <tr>
+      <td>4️⃣ 🏃</td>
+      <td>
+        - 운영 개발 서버 빌드 및 배포 환경 구분<br/>
+        - 시맨틱 버저닝 적용, 사용자가 가장 최신 배포 버전을 항상 바라볼 수 있도록 세팅<br/>
+      </td>
+      <td>
+        - Webpack `contenthash`<br/>
+        - CloudFront `cache invalidation`<br/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
 > 레벨 1과 레벨 2에서는 하나의 미션을 2단계로 진행하며
 >
 > **페어 프로그래밍으로 피드백 주기를 줄이고**, (step 1)  
@@ -11,13 +129,7 @@
 
 ### 🗓️ 기간
 
-2023.04.16 - 2024.06.14
-
-### 🎯 목표
-- 레벨1보다 복잡한 규모의 어플리케이션을 React와 TypeScript를 이용해 만들어본다.
-- 스토리북을 통하여, 컴포넌트 단위로 피드백을 받기 위한 테스트의 필요성을 경험해본다.
-- 유지보수하기 좋은 코드의 필요성을 경험하고, 어떻게 하면 유지보수하기 좋은 코드를 작성할 수 있을지 고민하고 적용해본다.
-- 주어진 디자인을 웹 표준을 준수하는 UI로 구현해보고, 프론트엔드 개발자로서 고려해야 할 UX에 대해 고민해본다.
+2024.02.13 - 2024.04.01
 
 ### 📝 모아 보기
 
@@ -101,7 +213,7 @@
 
 ### 🗓️ 기간
 
-2023.02.13 - 2024.04.01
+2024.02.13 - 2024.04.01
 
 ### 🎯 목표
 
