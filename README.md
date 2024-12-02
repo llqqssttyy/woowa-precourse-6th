@@ -1,8 +1,52 @@
 # 🐼 우아한테크코스 10개월의 기록
 
+## 레벨 4
+
+> 레벨 3에서 만든 프로젝트의 성능 개선과 접근성 개선을 달성합니다.
+
+### 🗓️ 기간
+
+2024.09.03 - 2024.10.25
+
+### 📝 모아 보기
+
+<table>
+  <thead>
+    <th>스프린트</th>
+    <th>공통 요구사항</th>
+    <th>학습 키워드</th>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>5️⃣ 🏃</td>
+      <td>
+        <a href=="https://github.com/woowacourse-teams/2024-cruru/wiki/%EC%84%B1%EB%8A%A5-%EB%A6%AC%ED%8F%AC%ED%8A%B8">- 성능 리포트 작성 및 성능 최적화 작업 진행<br/></a>
+      </td>
+      <td>
+        - LightHouse<br/>
+        - 가변 다이나믹 서브셋(웹폰트)<br/>
+        - 로딩 최적화: gzip, brotli, uglify, minify, webp, webm, cache, tree shaking<br/>
+        - 렌더링 최적화: reflow, repaint, memoization
+      </td>
+    </tr>
+    <tr>
+      <td>6️⃣ 🏃</td>
+      <td>
+        <a href="https://github.com/woowacourse/retrospective/discussions/53#discussioncomment-11037527">- 접근성 개선 계획 수립 후 개선 작업 진행<br/></a>
+      </td>
+      <td>
+        - ARIA<br/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
 ## 레벨 3 - 팀 프로젝트(크루루)
 
-> 2주 단위의 스프린트를 총 4회 진행하며 공통 요구사항을 수행하고,
+> 2주 단위의 스프린트를 총 4회 진행하며 공통 요구사항을 수행하고,<br/>
 > 스스로 정의한 문제를 팀원과 함께 해결해 나갑니다.
 
 ### 🗓️ 기간
